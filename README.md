@@ -10,13 +10,14 @@ This repository is structured to cover different aspects of Python and its libra
 - **Pandas** – Data manipulation, data frames, handling missing values, and working with real-world datasets.
 - **Matplotlib** – Data visualization techniques, creating plots, charts, and graphs.
 - **Seaborn** – Advanced data visualization, statistical plotting, and enhancing Matplotlib plots.
+- **Datasets** – Various datasets used for practice, analysis, visualization, and manipulation.
 
 ## Applications
 The scripts and notebooks in this repository demonstrate applications such as:
 - Data exploration and preprocessing
 - Statistical analysis
 - Data visualization using Matplotlib and Seaborn
-- Basic machine learning concepts (if included in future updates)
+- Working with real-world datasets
 
 ## Usage
 1. Clone the repository:
