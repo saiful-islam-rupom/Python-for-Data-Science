@@ -21,7 +21,7 @@ The scripts and notebooks in this repository demonstrate applications such as:
 ## Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Python-for-Data-Science.git
+   git clone https://github.com/saiful-islam-rupom/Python-for-Data-Science.git
    ```
 2. Install required dependencies:
    ```sh
